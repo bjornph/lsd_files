@@ -1,0 +1,11 @@
+dataset/fr3_sit_xyz/lsd.txt
+dataset/fr3_sit_xyz/rgbd_dataset_freiburg3_sitting_xyz-groundtruth.txt
+(1.6057124274090755, '  ', <type 'float'>, '\n')
+compared_pose_pairs 14 pairs
+absolute_translational_error.rmse 0.086343 m
+absolute_translational_error.mean 0.068306 m
+absolute_translational_error.median 0.046541 m
+absolute_translational_error.std 0.052815 m
+absolute_translational_error.min 0.025530 m
+absolute_translational_error.max 0.223077 m
+
